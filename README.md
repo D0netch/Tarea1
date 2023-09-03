@@ -14,7 +14,7 @@ Las opciones que funcionan correctamente:1. 1. Registrar libro.
                                             6. Retirar libro.
                                             7. Devolver libro.
                                             8. Mostrar libros prestados.
-                                            9. Importar libros desde un archivo CSV.
-                                            10. Exportar libros a un archivo CSV.
+                                            9. Importar libros desde un archivo CSV (Se puede utilizar "biblioteca.csv" para probar función). 
+                                            10. Exportar libros a un archivo CSV (Se puede utilizar "ejemploExportacion.csv" para probar función).
 
 Trabajo realizado por Javier Donetch de manera individual.
